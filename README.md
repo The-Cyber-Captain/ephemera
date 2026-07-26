@@ -1,2 +1,2 @@
-# ephemera
+# Ephemera
 Optical timing beacon
