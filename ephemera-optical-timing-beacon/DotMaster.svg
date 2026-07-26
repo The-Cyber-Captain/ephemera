@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 200 200" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" path="MarkerDot.svg"/>
+    </bx:export>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: #d8d8d8;"/>
+    </linearGradient>
+  </defs>
+  <circle style="fill: rgb(216, 216, 216); pointer-events: none;" transform="matrix(1, 0, 0, 1.000002, -535.32445, -480.62422)" cx="535.324" cy="480.623" r="75">
+    <title>DormantFill</title>
+  </circle>
+  <circle style="transform-origin: 516.788px 465.754px; stroke-width: 6.99999px; fill: none; stroke: rgb(255, 255, 255);" transform="matrix(1, 0, 0, 1.000002, -486.260639, -436.652977)" cx="486.261" cy="436.653" r="76" id="object-0">
+    <title>Rim</title>
+  </circle>
+  <g style="visibility: hidden;">
+    <circle style="fill: rgb(85, 250, 0);" transform="matrix(1, 0, 0, 1.000002, -512.147327, -466.621205)" cx="512.147" cy="466.62" r="90">
+      <title>ActiveFill</title>
+    </circle>
+    <circle style="stroke-width: 7; transform-origin: 516.788px 465.754px; fill: none; stroke: rgb(42, 233, 0);" transform="matrix(1, 0, 0, 1.000002, -486.260639, -436.652977)" cx="486.261" cy="436.653" r="76" id="circle-1">
+      <title>Rim</title>
+    </circle>
+  </g>
+</svg>
